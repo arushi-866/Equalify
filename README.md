@@ -1,0 +1,2 @@
+# Equalify
+Expense splitter
